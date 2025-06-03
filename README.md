@@ -12,5 +12,5 @@ The server implements the following features:
 - `Weather`: Gives the weather report of a particular place 
 
 ## Project Structure
-- `main.py`: Main server implementation with tools and resources.
+- `mcpserver`: Main server implementation with tools and resources.
 - `pyproject.toml`: Project configuration and dependencies
