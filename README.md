@@ -1,6 +1,6 @@
 # MCP Server
 
-This is a basic example of a Model Context Protocol (MCP) server implementation that demonstrates core functionality including tools and resources.
+This is a basic example of a Model Context Protocol (MCP) server implementation that demonstrates core functionality like MCP server and MCP client also including tools and resources.
 
 ## Features
 
